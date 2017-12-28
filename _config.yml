@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         kramdown
+highlighter:         rouge
+
+# Permalinks
+permalink:        /post/:title
+
+# Setup
+title:            "John Stromme"
+description:      "Personal Webpage for John Stromme"
+url:              http://jrstromme.github.io
+baseurl:          "/"
+
+author:
+  name:           "John Stromme"
+
+# Custom vars
+twitter:        https://twitter.com/shadetreeecon
+github:         https://github.com/jrstromme

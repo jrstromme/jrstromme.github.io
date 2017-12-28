@@ -1,0 +1,17 @@
+---
+layout: secondary_page
+title: About
+---
+
+<p>
+<img src="/headshot.jpg" class="about-avatar" /> I am currently a second year PhD student in Economics at UW-Madison. 
+</p>
+
+<p>
+jstromme@wisc.edu
+</p>
+
+
+<p>
+<a href="/cv">CV</a>
+</p>
