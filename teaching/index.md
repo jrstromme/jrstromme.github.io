@@ -10,7 +10,7 @@ title:  Teaching (TA)
 </style>
 
 <p class="makespace">
-<a href="/teaching/390_2018s">Spring 2018 (Johnson) Econ 390 &mdash; Sports Economics</a>
+<a href="/teaching/390_2018s">Spring 2018: Econ 390 (Johnson) &mdash; Sports Economics</a>
 </p>
 
 
