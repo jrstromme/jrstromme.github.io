@@ -13,7 +13,7 @@ title: About
 </p>
 
 <p>
-<a href="/cv">CV</a>
+<a href="/jrstromme_cv.pdf">CV</a>
 </p>
 
 <p class="makespace">
