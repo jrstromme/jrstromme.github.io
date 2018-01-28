@@ -4,8 +4,11 @@ title: About
 ---
 <style>
   .makespace {
-     margin-bottom: 5cm;
+     margin-bottom: 3cm;
   }
+  h3 {
+    text-decoration: underline;
+}
 </style>
 
 <p>
@@ -16,16 +19,21 @@ title: About
 <a href="/jrstromme_cv.pdf">CV</a>
 </p>
 
+
 <p class="makespace">
 
 </p>
 
 <p>
-Office Hours: TBA for Spring '18
+<h3> Contact Info:</h3> 
+   jstromme@wisc.edu
 </p>
 
 <p>
-jstromme@wisc.edu
+Office Hours (6473 Social Sciences): <br />
+   - Tuesday 12:30-1:30p <br />
+   - Thursday 4:00-5:00p 
 </p>
+
 
 
