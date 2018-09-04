@@ -12,7 +12,7 @@ title: About
 </style>
 
 <p>
-<img src="/headshot.jpg" class="about-avatar" /> I am currently a second year PhD student in Economics at UW-Madison. 
+<img src="/headshot.jpg" class="about-avatar" /> I am currently a third year PhD student in Economics at UW-Madison. 
 </p>
 
 <p>
@@ -30,9 +30,8 @@ title: About
 </p>
 
 <p>
-Office Hours (6473 Social Sciences): <br />
-   - Tuesday 12:30-1:30p <br />
-   - Thursday 4:00-5:00p 
+Office Hours (7310 Social Sciences): <br />
+   -- None Fall 2018 --
 </p>
 
 
