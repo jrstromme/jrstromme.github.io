@@ -4,7 +4,7 @@ title: About
 ---
 <style>
   .makespace {
-     margin-bottom: 3cm;
+     margin-bottom: 8.1cm;
   }
   h3 {
     text-decoration: underline;
@@ -12,7 +12,7 @@ title: About
 </style>
 
 <p>
-<img src="/headshot.jpg" class="about-avatar" /> I am currently a third year PhD student in Economics at UW-Madison. 
+<img src="/headshot_oct_2018.jpg" class="about-avatar" /> I am currently a third year PhD student in Economics at UW-Madison. 
 </p>
 
 <p>
@@ -22,9 +22,7 @@ title: About
 
 <p class="makespace">
 
-</p>
 
-<p>
 <h3> Contact Info:</h3> 
    jstromme@wisc.edu
 </p>
