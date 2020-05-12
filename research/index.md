@@ -9,13 +9,15 @@ title:  Research
   }
 </style>
 
-Working Papers:
+<strong> Working Papers: </strong>
 <p>
-<a href="/research/Engle_Stromme_Zhou_COVID_WP.pdf">Staying at Home: Mobility Effects of Covid-19</a> (w/ Sam Engle & Anson Zhou)
+<em>Engle, S., Stromme, J., and Zhou, A. (2020), "Staying at Home: Mobility Effects of Covid-19", Covid Economics 4. CEPR.</em> <br />
+- <a href="https://voxeu.org/article/staying-home-mobility-effects-covid-19">VoxEU</a> <br />
+- Updated Working Paper: <a href="/research/Engle_Stromme_Zhou_COVID_WP.pdf">Staying at Home: Mobility Effects of Covid-19</a> (w/ Sam Engle & <a href="https://sites.google.com/site/linshuoansonzhou/home">Anson Zhou</a>)
 </p>
    
 
-In Progress:
+<strong> In Progress: </strong>
 <div markdown="1">
-*Teacher Labor Market Equilibrium with Flexible Pay* (w/ Barbara Biasi & Chao Fu)
+*Teacher Labor Market Equilibrium with Flexible Pay* (w/ <a href="https://www.barbarabiasi.com/">Barbara Biasi</a> & <a href = "https://www.ssc.wisc.edu/~cfu/">Chao Fu</a>)
 </div>
