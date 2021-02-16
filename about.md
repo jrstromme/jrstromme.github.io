@@ -12,7 +12,7 @@ title: About
 </style>
 
 <p>
-<img src="/headshot_oct_2018.jpg" class="about-avatar" /> I am currently a fourth year PhD student in Economics at UW-Madison. 
+<img src="/headshot_oct_2018.jpg" class="about-avatar" /> I am currently a fifth year PhD student in Economics at UW-Madison. 
 </p>
 
 <p>
@@ -29,7 +29,7 @@ title: About
 
 <p>
 Office Hours (7310 Social Sciences): <br />
-   -- None Spring 2020 --
+-- By request; Not Teaching 2020--2021 --
 </p>
 
 
