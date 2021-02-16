@@ -29,7 +29,7 @@ title: About
 
 <p>
 <h3> Office Hours (7310 Social Sciences):</h3>
--- By request; Not Teaching 2020&mdash;2021 --
+&mdash; By request; Not Teaching 2020&mdash;2021 &mdash;
 </p>
 
 
