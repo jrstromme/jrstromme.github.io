@@ -28,9 +28,9 @@ title: About
 </p>
 
 <p>
-Office Hours (7310 Social Sciences): <br />
--- By request; Not Teaching 2020--2021 --
 </p>
 
+Office Hours (7310 Social Sciences): <br />
+-- By request; Not Teaching 2020--2021 --
 
 
