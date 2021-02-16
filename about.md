@@ -27,10 +27,10 @@ title: About
    jstromme@wisc.edu
 </p>
 
-<p>
+<p class="makespace">
+<h3> Office Hours (7310 Social Sciences):</h3> <br />
+-- By request; Not Teaching 2020--2021 --
 </p>
 
-Office Hours (7310 Social Sciences): <br />
--- By request; Not Teaching 2020--2021 --
 
 

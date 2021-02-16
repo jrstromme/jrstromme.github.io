@@ -11,7 +11,7 @@ title:  Research
 
 <strong> Working Papers: </strong>
 <p>
-<em>"Staying at Home: Mobility Effects of Covid-19" (w/ Sam Engle & <a href="https://sites.google.com/site/linshuoansonzhou/home">Anson Zhou</a>)), Covid Economics 4 86--102.</em> <br />
+<em>"Staying at Home: Mobility Effects of Covid-19" (w/ Sam Engle & <a href="https://sites.google.com/site/linshuoansonzhou/home">Anson Zhou</a>), Covid Economics 4 86--102.</em> <br />
 - <a href="https://voxeu.org/article/staying-home-mobility-effects-covid-19">VoxEU Summary</a> <br />
 - <a href="/research/Engle_Stromme_Zhou_COVID_WP.pdf">Paper</a> 
 </p>
