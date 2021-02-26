@@ -5,7 +5,8 @@
   <title>{{ page.title }} - {{ site.title }}</title>
   <link rel="icon" type="image/png" href="/badger_16.png" sizes="16x16">  
   <link rel="icon" type="image/png" href="/badger_32.png" sizes="32x32">
-  <link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700' rel='stylesheet' type='text/css'>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap" rel="stylesheet">
   <style>
   html{
   height: 100%
@@ -25,18 +26,6 @@
     width: 40.19px;
     height: 40.19px;
     background-image: url(/bucky.jpg);
-    background-position: 0px 0px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    vertical-align: -50%;
-    margin-left: 8px;
-  }
-  body.index .username:after {
-    content: "";
-    display: inline-block;
-    width: 40.19px;
-    height: 40.19px;
-    background-image: url(bucky.jpg);
     background-position: 0px 0px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -272,6 +261,7 @@ window['_fs_namespace'] = 'FS';
   {{ content }}
     </article>
   </main>
-  <footer><a href="/" style="border:0">johnstromme.com</a> &nbsp;<a href="https://github.com/jrstromme">github</a> &nbsp;<a href="https://econ.wisc.edu">uw-econ</a> </footer>
+  <footer>
+    <a href="/" style="border:0">johnstromme.com</a> &nbsp;<a href="https://github.com/jrstromme">github</a> &nbsp;<a href="https://econ.wisc.edu">uw-econ</a> </footer>
 </body>
 </html>
