@@ -16,7 +16,7 @@ title:  Research
    
 
 <ins>**In Progress:**<ins>
-: - *Estimating Latent Planning Restraing in Local Authorities*
+: - *Estimating Latent Planning Restraint in Local Authorities*
 : - *Spillovers and Endogenous Housing Policy*
    
 <ins>**Publications:**<ins>
